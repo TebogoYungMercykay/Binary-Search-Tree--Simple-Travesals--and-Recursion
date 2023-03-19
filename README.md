@@ -9,8 +9,8 @@ ________________________________________________________________________________
 	- The left and right subtree each must also be a binary search tree.
 
  - The Mirrored Binary Search Tree is the Opposite of the Standard Tree
- - Example Trees
-	<img alt="Example Trees" src="">
+ - ### Example Trees
+	<img alt="Example Trees" src="https://github.com/TebogoYungMercykay/Binary-Search-Tree--Simple-Travesals--and-Recursion/blob/main/ReadMe%20Images/Examples.png">
 
 - ### Data Structure
 	 - Binary Search Tree
@@ -21,7 +21,8 @@ ________________________________________________________________________________
 ________________________________________________________________________________________
 
 ## UML Diagrams And Functions
-<img alt="UML Diagrams And Functions" src="">
+<img alt="UML Diagrams And Functions" src="https://github.com/TebogoYungMercykay/Binary-Search-Tree--Simple-Travesals--and-Recursion/blob/main/ReadMe%20Images/UML.png">
+
 ________________________________________________________________________________________
 
 ## Requirements before running codes:
